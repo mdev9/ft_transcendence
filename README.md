@@ -6,6 +6,33 @@ Welcome to **Transcendence**, a remote Pong website that offers a thrilling mult
 
 **Transcendence** aims to provide an engaging and interactive platform where users can play Pong remotely 🏓🌐, manage their profiles, chat in real time 💬, and enjoy a variety of game modes 🎮. 
 
+<details>
+<summary>
+   📦 Modules
+</summary>
+<br>
+   
+**Major Modules:**
+
+- Django 🐍
+- Remote Authentication 🔑
+- Remote Players 🎮
+- Multiplayer 🌐
+- AI Opponent 🤖
+- 3D Graphics 🌟
+- User Management 👤
+- Microservices ☁️
+- Chat 💬
+
+**Minor Modules:**
+
+- Bootstrap 🎨
+- Database 🗄️
+- Multiple Languages 🌍
+- Browser Compatibility 🌐
+</details>
+
+
 ### 🏛️ Architecture
 
 - **Backend**: Django 🐍
@@ -31,26 +58,6 @@ Welcome to **Transcendence**, a remote Pong website that offers a thrilling mult
 - Multiplayer Remote Game (up to 8 players) 🌍
 - Versus AI with 4 difficulty levels (one found in tournaments) 🤖
 
-### 📦 Modules (including bonuses)
-
-**Major Modules:**
-
-- Django 🐍
-- Remote Authentication 🔑
-- Remote Players 🎮
-- Multiplayer 🌐
-- AI Opponent 🤖
-- 3D Graphics 🌟
-- User Management 👤
-- Microservices ☁️
-- Chat 💬
-
-**Minor Modules:**
-
-- Bootstrap 🎨
-- Database 🗄️
-- Multiple Languages 🌍
-- Browser Compatibility 🌐
 
 ### 📅 Project Timeline
 
@@ -106,6 +113,6 @@ Here are some screenshots of the game in action:
 - **[@Y-Wassef](https://github.com/Y-Wassef)** - AI Developer & Database Administrator
 - **[@mdev9](https://github.com/mdev9)** - Full Stack Developer & UI/UX Designer
 
-Together, we worked hard to bring this project to life, and we’re excited to share it with you! 🌟
+<br>
 
 Thank you for taking the time to explore **Transcendence**! We hope you enjoy the multiplayer experience and appreciate the effort put into creating a seamless and engaging game. Happy gaming! 🎮✨
